@@ -160,12 +160,6 @@ streamlit run app.py
 
 ---
 
-## 💼 Resume Highlight
-
-Built a Hybrid Movie Recommendation System using Collaborative Filtering (Cosine Similarity) and Content-Based Filtering (Genre Similarity), deployed with an interactive Streamlit interface.
-
----
-
 ## 🔮 Future Improvements
 
 * 🎬 Add movie posters using TMDB API
@@ -177,4 +171,4 @@ Built a Hybrid Movie Recommendation System using Collaborative Filtering (Cosine
 
 ## 👨‍💻 Author
 
-Swapnil Salvi
+Built as part of a hands-on machine learning learning journey.
