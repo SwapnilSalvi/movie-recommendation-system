@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual Environment
+venv/
+env/
+recommendationenv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (optional - if large, avoid pushing)
+# data/*.csv
+
+# Model files (can be large)
+models/*.pkl
+
+# Mac system files
+.DS_Store
+
+# Logs
+*.log
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
